@@ -4,7 +4,7 @@ A newsapp called newsfeed
 app functions:
 
 1. The app launches and displays the main activity.
-2. The main activity sets up the layout, including a toolbar and a navigation drawer.
+2. The main activity sets up the layout, including a toolbar and a navigation drawer. 
 3. The toolbar serves as the app's action bar, providing a title and an optional settings menu item.
 4. The navigation drawer can be opened and closed by swiping from the left edge of the screen or tapping the hamburger icon on the toolbar.
 5. The navigation drawer contains a list of menu items, representing different sections of the app.
