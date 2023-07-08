@@ -1,3 +1,5 @@
+hello word 
+    
 package com.group47.project;
 
 import android.content.Context;
