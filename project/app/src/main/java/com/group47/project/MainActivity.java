@@ -1,4 +1,4 @@
-//hello world
+//hello world THIS IS THE MAIN ACTIVITY
 
 
 package com.group47.project;
