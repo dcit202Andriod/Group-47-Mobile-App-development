@@ -1,4 +1,23 @@
 
+package com.group47.project.adapter;
+
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import android.content.Context;
+import androidx.fragment.app.FragmentPagerAdapter;
+
+
+import com.group47.project.R;
+import com.group47.project.fragment.BusinessFragment;
+import com.group47.project.fragment.CultureFragment;
+import com.group47.project.fragment.EnvironmentFragment;
+import com.group47.project.fragment.FashionFragment;
+import com.group47.project.fragment.HomeFragment;
+import com.group47.project.fragment.ScienceFragment;
+import com.group47.project.fragment.SocietyFragment;
+import com.group47.project.fragment.SportFragment;
+import com.group47.project.fragment.WorldFragment;
+import com.group47.project.utils.Constants;
 
 /**
  * Provides the appropriate {@link Fragment} for a view pager.
